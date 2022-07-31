@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul Rahman Junaid
-- 👀 I’m interested in programming
+- 👀 Full stack web Developer 
 - 🌱 I’m currently into web development(Full stack)
 - 💞️
 - 📫 How to reach me : (WhatsApp-https://wa.me/qr/JLC2LMUYOXISJ1)
